@@ -1,0 +1,44 @@
+{
+
+"users": [
+{
+
+"gender": "male",
+        "title": "mr",
+        "first": "Mista",
+        "last": "Sista",
+        "street": "Engvej 19E, 2th",
+        "city": "Copenhagen",
+        "state": "Denmark",
+        "zip": "749",
+        "email": "mistafista@example.com",
+        "dob": "02020302",
+        "phone": "(757)-889-2571,",
+        "cell": "(113)-542-2123",
+        "picture": {
+        "large": "http.picexample.jpg",
+                "thumbnail": "htp.jpg"
+        }
+},
+{
+
+"gender": "male",
+        "title": "mr",
+        "first": "Mista",
+        "last": "Sista",
+        "street": "Engvej 19E, 2th",
+        "city": "Copenhagen",
+        "state": "Denmark",
+        "zip": "749",
+        "email": "mistafista@example.com",
+        "dob": "02020302",
+        "phone": "(757)-889-2571,",
+        "cell": "(113)-542-2123",
+        "picture": {
+        "large": "http.picexample.jpg",
+                "thumbnail": "htp.jpg"
+        }
+}
+]
+}
+

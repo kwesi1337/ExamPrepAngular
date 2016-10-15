@@ -1,0 +1,44 @@
+<div>
+    <h2>Details for {{u.first}} {{u.last}}</h2>
+    <table style="float: left; alignment-adjust: auto">
+        <tr>
+            <td>Gender: </td>
+            <td>{{u.gender}}</td>
+        </tr>
+        <tr>
+            <td>First Name: &nbsp; </td>
+            <td>{{u.first}}</td>
+        </tr>
+        <tr>
+            <td>Last Name: &nbsp;</td>
+            <td>{{u.last}}</td>
+        </tr>
+        <tr>
+            <td>Street: </td>
+            <td>{{u.street}}</td>
+        </tr>
+        <tr>
+            <td>City: </td>
+            <td>{{u.city}}</td>
+        </tr>
+        <tr>
+            <td>Zip: </td>
+            <td>{{u.zip}}</td>
+        </tr>
+        <tr>
+            <td>Phone: </td>
+            <td>{{u.phone}}</td>
+        </tr>
+        <tr>
+            <td>Cell: </td>
+            <td>{{u.cell}}</td>
+        </tr>
+        <tr>
+            <td>Email: </td>
+            <td>{{u.email}}</td>
+        </tr>
+    </table>
+    <button style="float:left; alignment-adjust: auto; margin-top: 180px" class="btn btn-default" ng-click="back()">Back</button>
+    <img src="{{u.picture.large}}" style="float:right; alignment-adjust: auto">
+    
+</div>
